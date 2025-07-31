@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ade Naufal Ammar
+# 👋 Hey there! I'm Ade
 
 <div align="center">
 
@@ -37,27 +37,27 @@ Indonesian developer with a passion for creating innovative web applications and
 - Built with React, Vite, and TypeScript
 - Create beautiful gradients with real-time preview
 - Export assets for design projects
-- *Technologies: TypeScript, React, Vite*
+- *Tech Stack: TypeScript, React, Vite*
 
 ### 🖼️ [ImageCompress](https://github.com/adenaufal/imagecompress)
 **Client-Side Image Compression Tool**
 - Powerful browser-based image optimization
 - Support for JPG, PNG, and WebP formats
 - No server required - everything runs in your browser
-- *Technologies: TypeScript, React, Vite*
+- *Tech Stack: TypeScript, React, Vite*
 
 ### 🎯 [ImageLexicon](https://github.com/adenaufal/imagelexicon)
 **AI Image Prompt Generator**
 - Web-based tool for AI image model prompts
 - Streamlines creative workflow for AI artists
-- *Technologies: TypeScript, AI Integration*
+- *Tech Stack: TypeScript, AI Integration*
 
 ### 💱 [Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)
 **PayPal to Rupiah Conversion Service**
 - Facebook Messenger chatbot for currency conversion
 - Competitive rates with secure processing
 - 24/7 automated service
-- *Technologies: HTML, Facebook Messenger API*
+- *Tech Stack: Flask, MongoDB Atlas, Render, Python, FB Messenger Platform API*
 
 ## 📊 GitHub Stats
 
