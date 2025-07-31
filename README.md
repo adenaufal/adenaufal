@@ -1,21 +1,25 @@
-# 👋 Hey there! I'm Ade
+# 👋 Yo! I'm Ade
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Indonesian+Developer;Open+Source+Enthusiast;Creative+Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Indonesian+Doujin+Enthusiast;Merch+%26+Art+Commission+Lover;Proud+Vibe+Coder;College+Survivor+(Barely);Building+Cool+Stuff+Anyway!)
 
 </div>
 
-## 🚀 About Me
+## 🎨 About This Chaotic Human
 
-Indonesian developer with a passion for creating innovative web applications and tools. I love building practical solutions that make people's lives easier, from document processing bots to creative design tools.
+**Indonesian doujin, merch, and art commission enthusiast** who happens to code stuff when not browsing for the latest figures or commissioning artwork. 
 
-- 🌍 Based in **Pekanbaru, Indonesia** 
-- 💼 Check out my portfolio: [adenaufal.my.id](https://adenaufal.my.id)
-- 🐦 Follow me on Twitter: [@adenaufal](https://twitter.com/adenaufal)
-- 📧 ORCID: [0000-0003-1438-8475](https://orcid.org/0000-0003-1438-8475)
+Yeah, I might suck at college, but I'm out here building actual things that people use! 🔥
 
-## 🛠️ Tech Stack
+- 🌍 Vibing in **Pekanbaru, Indonesia** 
+- 🎯 **Proud vibe coder** - grades don't define my commits!
+- 🎨 **Doujin collector** and art commission addict
+- 💼 Portfolio that actually works: [adenaufal.my.id](https://adenaufal.my.id)
+- 🐦 Twitter rants: [@adenaufal](https://twitter.com/adenaufal)
+- 📧 Academic stuff: [ORCID](https://orcid.org/0000-0003-1438-8475) (the irony lol)
+
+## 🛠️ Tech Stack (The Good Stuff)
 
 <div align="center">
 
@@ -30,36 +34,39 @@ Indonesian developer with a passion for creating innovative web applications and
 
 </div>
 
-## 🌟 Featured Projects
+*"I may fail exams, but my code compiles (most of the time)"* 💀
+
+## 🌟 Stuff I Actually Built (Unlike My GPA)
 
 ### 🎨 [Meshly](https://github.com/adenaufal/meshly)
-**Interactive Gradient Generator & Visual Asset Exporter**
-- Built with React, Vite, and TypeScript
-- Create beautiful gradients with real-time preview
-- Export assets for design projects
-- *Tech Stack: TypeScript, React, Vite*
+**Gradient Generator That Actually Looks Good**
+- Made this when I was procrastinating on assignments
+- React + TypeScript because I'm fancy like that
+- Export gradients for your next art commission background!
+- *Status: Works better than my college projects*
 
 ### 🖼️ [ImageCompress](https://github.com/adenaufal/imagecompress)
-**Client-Side Image Compression Tool**
-- Powerful browser-based image optimization
-- Support for JPG, PNG, and WebP formats
-- No server required - everything runs in your browser
-- *Tech Stack: TypeScript, React, Vite*
+**Compress Images Without Servers (I'm Broke)**
+- Client-side compression because hosting costs money
+- Works in browser, no backend needed
+- Perfect for optimizing your doujin collection thumbnails
+- *Better compression ratio than my life choices*
 
 ### 🎯 [ImageLexicon](https://github.com/adenaufal/imagelexicon)
-**AI Image Prompt Generator**
-- Web-based tool for AI image model prompts
-- Streamlines creative workflow for AI artists
-- *Tech Stack: TypeScript, AI Integration*
+**AI Prompt Generator for Art Commissioning**
+- Generate prompts for AI art models
+- Useful when commissioning artists or making references
+- Built for the art community (my people!)
+- *More creative than my college essays*
 
 ### 💱 [Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)
-**PayPal to Rupiah Conversion Service**
-- Facebook Messenger chatbot for currency conversion
-- Competitive rates with secure processing
-- 24/7 automated service
-- *Tech Stack: Flask, MongoDB Atlas, Render, Python, FB Messenger Platform API*
+**PayPal to Rupiah Exchange Service**
+- Facebook Messenger bot for currency conversion
+- Better customer service than most banks
+- 24/7 because money doesn't sleep
+- *Actually profitable unlike my college investment*
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (The Only Stats That Matter)
 
 <div align="center">
 
@@ -69,7 +76,9 @@ Indonesian developer with a passion for creating innovative web applications and
 
 </div>
 
-## 🏆 GitHub Trophies
+*Green squares > report cards* 📈
+
+## 🏆 Achievements (Real Ones)
 
 <div align="center">
 
@@ -77,7 +86,7 @@ Indonesian developer with a passion for creating innovative web applications and
 
 </div>
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph (Proof I Actually Code)
 
 <div align="center">
 
@@ -85,14 +94,23 @@ Indonesian developer with a passion for creating innovative web applications and
 
 </div>
 
-## 🤝 Let's Connect!
+## 🎨 When I'm Not Coding
 
-I'm always interested in collaborating on innovative projects and connecting with fellow developers. Feel free to reach out if you want to:
+- 📚 **Collecting doujins** (the real education)
+- 🛍️ **Hunting for merch** (RIP wallet)
+- 🎨 **Commissioning art** (supporting artists > supporting professors)
+- 🎮 **Gaming** (stress relief from college)
+- 💻 **Building random projects** (because why not?)
 
-- 💡 Discuss project ideas
-- 🤝 Collaborate on open source
-- 💬 Chat about technology and development
-- 🎨 Work on creative coding projects
+## 🤝 Let's Connect & Vibe!
+
+Hit me up if you want to:
+
+- 💬 Talk about doujins, anime, or art
+- 🤝 Collaborate on fun projects
+- 💡 Share memes about college struggles
+- 🎨 Commission some artwork
+- 💻 Code something cool together
 
 <div align="center">
 
@@ -105,7 +123,9 @@ I'm always interested in collaborating on innovative projects and connecting wit
 
 <div align="center">
 
-*"Building digital solutions one commit at a time"* ⚡
+*"College may not appreciate me, but my GitHub commits do"* ⚡
+
+*"Building cool stuff while failing thermodynamics, (actually starting) since 2024"* 💀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adenaufal&color=brightgreen&style=flat-square)
 
