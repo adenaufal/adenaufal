@@ -39,21 +39,14 @@ Indonesian developer with a passion for creating innovative web applications and
 - Export assets for design projects
 - *Technologies: TypeScript, React, Vite*
 
-### 🤖 [WA Document Extractor Bot](https://github.com/adenaufal/wa-dokumen-extractor-bot)
-**Smart WhatsApp Bot for Indonesian Document Processing**
-- Automatic data extraction from Indonesian documents (KTP, KK, Ijazah, SIM)
-- Advanced OCR technology integration
-- Built with Python + Google Apps Script API
-- *Technologies: Python, OCR, WhatsApp API*
-
-### 🖼️ [Image Compress](https://github.com/adenaufal/imagecompress)
+### 🖼️ [ImageCompress](https://github.com/adenaufal/imagecompress)
 **Client-Side Image Compression Tool**
 - Powerful browser-based image optimization
 - Support for JPG, PNG, and WebP formats
 - No server required - everything runs in your browser
 - *Technologies: TypeScript, React, Vite*
 
-### 🎯 [Image Lexicon](https://github.com/adenaufal/imagelexicon)
+### 🎯 [ImageLexicon](https://github.com/adenaufal/imagelexicon)
 **AI Image Prompt Generator**
 - Web-based tool for AI image model prompts
 - Streamlines creative workflow for AI artists
