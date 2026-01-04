@@ -23,25 +23,20 @@
 
 *"I may fail exams, but my code compiles (most of the time)"* 💀
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-**[Meshly](https://github.com/adenaufal/meshly)** - Gradient generator with React + TypeScript. Export gradients for your art commission backgrounds!
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Meshly](https://github.com/adenaufal/meshly)** | Gradient generator for commission-friendly backgrounds. | React · TypeScript |
+| **[ImageCompress](https://github.com/adenaufal/imagecompress)** | Client-side image compression with zero server cost. | Web · JavaScript |
+| **[ImageLexicon](https://github.com/adenaufal/imagelexicon)** | Prompt generator for art commissions and creative briefs. | AI · Web |
+| **[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)** | PayPal-to-Rupiah exchange via a Messenger bot. | Bot · Payments |
 
-**[ImageCompress](https://github.com/adenaufal/imagecompress)** - Client-side image compression. No servers needed because I'm broke lol.
+## 🎯 What I'm Focused On
 
-**[ImageLexicon](https://github.com/adenaufal/imagelexicon)** - AI prompt generator for art commissioning. Built for the art community!
-
-**[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)** - PayPal to Rupiah exchange via Facebook Messenger bot. 24/7 service!
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adenaufal&show_icons=true&theme=radical&count_private=false&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adenaufal&layout=compact&theme=radical&hide_private=true)
-
-</div>
+- Shipping useful tools for creators and commission workflows.
+- Building fast, clean front-ends with Vite + React.
+- Learning more about product design and user experience.
 
 *Green squares > report cards* 📈
 
