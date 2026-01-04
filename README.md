@@ -37,12 +37,6 @@ AI prompt generator for art commissioning. Built for the art community.
 **[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)**  
 PayPal to Rupiah exchange via Facebook Messenger bot. 24/7 service.
 
-**[Notehero](https://github.com/adenaufal/notehero)**  
-Minimalist notes app with clean UI for quick ideas and drafts.
-
-**[Vtb-Card](https://github.com/adenaufal/vtb-card)**  
-Custom VTuber card generator for shareable profile cards.
-
 ## 🤝 Let's Connect!
 
 Hit me up to talk about doujins, anime, art, or collaborate on fun projects!
