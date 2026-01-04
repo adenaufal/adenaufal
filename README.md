@@ -1,17 +1,21 @@
-# 👋 Yo! I'm Ade
+# 👋 Hi, I'm Ade
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Indonesian+Doujin+Enthusiast;Merch+%26+Art+Commission+Lover;Proud+Vibe+Coder;Building+Cool+Stuff!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=520&lines=Indonesian+Vibe+Coder;Merch+%26+Art+Commission+Lover;Building+Cool+Stuff+for+Creators)
 
 </div>
 
-## 🎨 About Me
+## ✨ About Me
 
-**Indonesian doujin, merch, and art commission enthusiast** who happens to code stuff when not hunting for the latest figures or commissioning artwork. Yeah, I might suck at college, but I'm out here building actual things that people use! 🔥
+Indonesian creator who loves doujin, merch, and art commissions. I build helpful tools for artists and communities when I'm not hunting for the next figure drop.
 
-- 🌍 **Pekanbaru, Indonesia** | 🎯 **Proud vibe coder** | 🎨 **Doujin collector**
-- 💼 [adenaufal.my.id](https://adenaufal.my.id) | 🐦 [@adenaufal](https://twitter.com/adenaufal) | 📧 [ORCID](https://orcid.org/0000-0003-1438-8475)
+- 🌍 Pekanbaru, Indonesia
+- 🎯 Proud vibe coder
+- 🎨 Doujin collector
+- 💼 [adenaufal.my.id](https://adenaufal.my.id)
+- 🐦 [@adenaufal](https://twitter.com/adenaufal)
+- 📧 [ORCID](https://orcid.org/0000-0003-1438-8475)
 
 ## 🛠️ Tech Stack
 
@@ -21,33 +25,18 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-*"I may fail exams, but my code compiles (most of the time)"* 💀
+> "I may fail exams, but my code compiles (most of the time)." 💀
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-**[Meshly](https://github.com/adenaufal/meshly)** - Gradient generator with React + TypeScript. Export gradients for your art commission backgrounds!
+- **[Meshly](https://github.com/adenaufal/meshly)** — Gradient generator built with React + TypeScript. Export fresh backgrounds for art commissions.
+- **[ImageLexicon](https://github.com/adenaufal/imagelexicon)** — Prompt generator for visual creators. Built to speed up ideation.
+- **[ImageCompress](https://github.com/adenaufal/imagecompress)** — Client-side image compression tool. No servers, no hassle.
+- **[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)** — PayPal to Rupiah exchange via Messenger bot with 24/7 service.
 
-**[ImageCompress](https://github.com/adenaufal/imagecompress)** - Client-side image compression. No servers needed because I'm broke lol.
+## 🤝 Let's Connect
 
-**[ImageLexicon](https://github.com/adenaufal/imagelexicon)** - AI prompt generator for art commissioning. Built for the art community!
-
-**[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)** - PayPal to Rupiah exchange via Facebook Messenger bot. 24/7 service!
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adenaufal&show_icons=true&theme=radical&count_private=false&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adenaufal&layout=compact&theme=radical&hide_private=true)
-
-</div>
-
-*Green squares > report cards* 📈
-
-## 🤝 Let's Connect!
-
-Hit me up to talk about doujins, anime, art, or collaborate on fun projects!
+Hit me up to talk about doujins, anime, art, or collaboration ideas!
 
 <div align="center">
 
@@ -60,10 +49,6 @@ Hit me up to talk about doujins, anime, art, or collaborate on fun projects!
 
 <div align="center">
 
-*"College may not appreciate me, but my GitHub commits do"* ⚡
-
-*"Building cool stuff while failing thermodynamics, (actually starting) since 2024"* 💀
-
-![Profile Views](https://komarev.com/ghpvc/?username=adenaufal&color=brightgreen&style=flat-square)
+"Building cool stuff while surviving thermodynamics, since 2024" ⚡
 
 </div>
