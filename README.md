@@ -23,27 +23,13 @@
 
 *"I may fail exams, but my code compiles (most of the time)"* 💀
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-**[Meshly](https://github.com/adenaufal/meshly)** - Gradient generator with React + TypeScript. Export gradients for your art commission backgrounds!
-
-**[ImageCompress](https://github.com/adenaufal/imagecompress)** - Client-side image compression. No servers needed because I'm broke lol.
-
-**[ImageLexicon](https://github.com/adenaufal/imagelexicon)** - AI prompt generator for art commissioning. Built for the art community!
-
-**[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)** - PayPal to Rupiah exchange via Facebook Messenger bot. 24/7 service!
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adenaufal&show_icons=true&theme=radical&count_private=false&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adenaufal&layout=compact&theme=radical&hide_private=true)
-
-</div>
-
-*Green squares > report cards* 📈
+- **[Meshly](https://github.com/adenaufal/meshly)** — Gradient generator with React + TypeScript. Export ready-to-use palettes for art commissions.
+- **[ImageCompress](https://github.com/adenaufal/imagecompress)** — Client-side image compression for quick uploads without a server.
+- **[ImageLexicon](https://github.com/adenaufal/imagelexicon)** — AI prompt generator for art commissions and concept exploration.
+- **[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)** — PayPal-to-Rupiah exchange bot via Facebook Messenger.
+- **[Dinasour](https://github.com/adenaufal/dinasour)** — Indonesian government search platform with a clean, fast UI.
 
 ## 🤝 Let's Connect!
 
