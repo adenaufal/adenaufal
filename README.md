@@ -23,27 +23,25 @@
 
 *"I may fail exams, but my code compiles (most of the time)"* 💀
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
-**[Meshly](https://github.com/adenaufal/meshly)** - Gradient generator with React + TypeScript. Export gradients for your art commission backgrounds!
+**[Meshly](https://github.com/adenaufal/meshly)**  
+Gradient generator with React + TypeScript. Export gradients for your art commission backgrounds.
 
-**[ImageCompress](https://github.com/adenaufal/imagecompress)** - Client-side image compression. No servers needed because I'm broke lol.
+**[ImageCompress](https://github.com/adenaufal/imagecompress)**  
+Client-side image compression. No servers needed because I'm broke lol.
 
-**[ImageLexicon](https://github.com/adenaufal/imagelexicon)** - AI prompt generator for art commissioning. Built for the art community!
+**[ImageLexicon](https://github.com/adenaufal/imagelexicon)**  
+AI prompt generator for art commissioning. Built for the art community.
 
-**[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)** - PayPal to Rupiah exchange via Facebook Messenger bot. 24/7 service!
+**[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)**  
+PayPal to Rupiah exchange via Facebook Messenger bot. 24/7 service.
 
-## 📊 GitHub Stats
+**[Notehero](https://github.com/adenaufal/notehero)**  
+Minimalist notes app with clean UI for quick ideas and drafts.
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adenaufal&show_icons=true&theme=radical&count_private=false&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adenaufal&layout=compact&theme=radical&hide_private=true)
-
-</div>
-
-*Green squares > report cards* 📈
+**[Vtb-Card](https://github.com/adenaufal/vtb-card)**  
+Custom VTuber card generator for shareable profile cards.
 
 ## 🤝 Let's Connect!
 
