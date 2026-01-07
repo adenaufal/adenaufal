@@ -31,7 +31,7 @@ Gradient generator with React + TypeScript. Export gradients for your art commis
 **[ImageCompress](https://github.com/adenaufal/imagecompress)**  
 Client-side image compression. No servers needed because I'm broke lol.
 
-**[ImageLexicon](https://github.com/adenaufal/imagelexicon)**  
+**[Kotodama](https://github.com/adenaufal/kotodama)**
 AI prompt generator for art commissioning. Built for the art community.
 
 **[Lapak Bang Ade](https://github.com/adenaufal/lapakbangade)**  
