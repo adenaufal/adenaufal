@@ -6,7 +6,7 @@
 
 Founder @ **PT Merchia Studio Kreasi** — building commerce, community, and AI automation for the Indonesian ACG market since 2016.
 
-[![Website](https://img.shields.io/badge/Website-adenaufal.my.id-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adenaufal.my.id)
+[![Website](https://img.shields.io/badge/Website-adenaufal.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adenaufal.com)
 [![X](https://img.shields.io/badge/X-@adenaufal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adenaufal)
 [![Email](https://img.shields.io/badge/Email-ade.naufal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ade.naufal@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1438--8475-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1438-8475)
@@ -125,7 +125,7 @@ Hit me up to talk about doujins, anime, art — or AI automation, creator-econom
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-adenaufal.my.id-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adenaufal.my.id)
+[![Website](https://img.shields.io/badge/Website-adenaufal.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adenaufal.com)
 [![X](https://img.shields.io/badge/X-@adenaufal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adenaufal)
 
 <sub>From collector to curator — building Indonesia's anime commerce infrastructure.</sub>
