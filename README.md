@@ -2,9 +2,9 @@
 
 # 👋 Yo! I'm Ade
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Founder+%40+PT+Merchia+Studio+Kreasi;Building+Indonesia's+Anime+Commerce+Infrastructure;Doujin+Collector+Turned+Curator;AI-First+Solo+Builder)
+### Building Indonesia's Anime Commerce Infrastructure
 
-Founder @ **PT Merchia Studio Kreasi** — building commerce, community, and AI automation for the Indonesian ACG market since 2016.
+Founder @ **PT Merchia Studio Kreasi** — commerce, community, and AI automation for the Indonesian ACG market since 2016. One founder, a portfolio of brands, and an AI agent stack doing the heavy lifting.
 
 [![Website](https://img.shields.io/badge/Website-adenaufal.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adenaufal.com)
 [![X](https://img.shields.io/badge/X-@adenaufal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adenaufal)
@@ -23,45 +23,39 @@ Founder @ **PT Merchia Studio Kreasi** — building commerce, community, and AI 
 
 ---
 
-## 🏗️ What I'm Building
+## 🏗️ The Portfolio
 
-A portfolio of products and brands under one holding company — designed, shipped, and operated solo, with AI agents doing the heavy lifting.
+Brands and products under one holding company — designed, shipped, and operated solo.
 
 | Venture | What it is | Status |
 |---|---|---|
-| **Chrientmip Studio** | Anime art commission studio — artist management, tiered pricing, payroll systems | 🟢 Operating |
-| **Lapak Bang Ade** | PayPal ⇄ IDR conversion service with Telegram bot, fraud detection, automated ops | 🟢 Operating |
-| **Hermes Agent** | Self-hosted AI content-ops agent: 122+ skills, 13 cron jobs, multi-brand automation via Telegram | 🟢 In production |
-| **Foliate** | Markdown-to-PDF ebook generator (Next.js + Typst) — `foliate.id` | 🟡 In development |
-| **IDNSteam** | Indonesia's Steam community — content, curation, and community ops | 🟢 Active |
+| [**Chrientmip Studio**](https://chrientmip.com) | Anime art commission studio — artist management, tiered pricing, payroll systems | 🟢 Operating |
+| [**Lapak Bang Ade**](https://lapakbangade.com) | PayPal ⇄ IDR conversion service with Telegram bot, fraud detection, automated ops | 🟢 Operating |
+| [**Hermes Agent**](https://adenaufal.com) | Self-hosted AI content-ops agent: 122+ skills, 13 cron jobs, multi-brand automation via Telegram | 🟢 In production |
+| [**Foliate**](https://foliate.id) | Markdown-to-PDF ebook generator for writers and digital product creators | 🟡 In development |
+| [**IDNSteam**](https://bit.ly/IDNSteam) | Indonesia's Steam community — content, curation, and community ops | 🟢 Active |
 | **PRISM COLLECTIVE** | Anime merchandise brand | 🔒 Stealth |
 
 ---
 
-## 🎯 Current Focus
+## ⚙️ Under the Hood
 
-- **AI-operated business** — one founder, 8 brands, orchestrated by a self-hosted agent stack with cost-optimized model routing
-- **Vibe coding for Indonesian creators** — sharing how non-traditional devs ship production software with AI ([@adenaufal](https://x.com/adenaufal))
-- **SEO/GEO engineering** — making brands visible to both Google and LLMs
-
----
-
-## 🌟 Featured Projects
+The engineering behind the portfolio — every venture above runs on software I built and operate myself.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Hermes Agent
-Self-hosted AI ops agent running multi-platform content operations for 8 brands. Custom skills library, cost-optimized model routing, Telegram-first interface.
+### 🤖 [Hermes Agent](https://adenaufal.com)
+The AI ops layer for the whole portfolio: multi-platform content operations, custom skills library, cost-optimized model routing, Telegram-first interface.
 
 `Node.js` `DeepSeek` `Telegram API` `Ubuntu VPS`
 
 </td>
 <td width="50%">
 
-### 📚 Foliate
-Markdown-to-PDF ebook generator for writers and digital product creators. Typst-powered rendering pipeline.
+### 📚 [Foliate](https://foliate.id)
+Typst-powered rendering pipeline that turns Markdown into print-ready PDF ebooks.
 
 `Next.js` `Typst` `Railway`
 
@@ -70,7 +64,7 @@ Markdown-to-PDF ebook generator for writers and digital product creators. Typst-
 <tr>
 <td width="50%">
 
-### 🏢 Chrientmip Hub
+### 🏢 [Chrientmip Hub](https://vgen.co/chrientmip)
 Internal studio ops platform — commission tracking, artist payroll with snapshot-first architecture, tier-driven revenue splits.
 
 `Next.js 15` `Prisma` `Better Auth` `Railway`
@@ -78,7 +72,7 @@ Internal studio ops platform — commission tracking, artist payroll with snapsh
 </td>
 <td width="50%">
 
-### 💱 LBA Bot
+### 💱 [LBA Bot](https://lapakbangade.com)
 Production payment-ops bot handling real money daily. Fraud detection layers, multi-channel (Telegram + Messenger).
 
 `Python` `Telegram Bot API` `Fraud heuristics`
@@ -89,11 +83,24 @@ Production payment-ops bot handling real money daily. Fraud detection layers, mu
 
 ---
 
+## 🎯 Current Focus
+
+- **AI-operated business** — running the whole portfolio through a self-hosted agent stack with cost-optimized model routing
+- **Vibe coding for Indonesian creators** — sharing how non-traditional devs ship production software with AI ([@adenaufal](https://x.com/adenaufal))
+- **SEO/GEO engineering** — making brands visible to both Google and LLMs
+
+---
+
 ## 🛠️ Tech Stack
+
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & Infra**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -102,7 +109,11 @@ Production payment-ops bot handling real money daily. Fraud detection layers, mu
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI Tooling**
+
 ![Claude](https://img.shields.io/badge/-Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logoColor=white)
 
 **How I work:** AI-augmented development end-to-end — spec → agent → ship. 15+ years self-taught in digital marketing, design, and sales; engineering degree on top.
 
@@ -110,23 +121,20 @@ Production payment-ops bot handling real money daily. Fraud detection layers, mu
 
 ## 📌 Now
 
-*Inspired by [Derek Sivers' /now](https://nownownow.com)* · Updated June 2026
+*Inspired by [Derek Sivers' /now](https://nownownow.com)* · Updated August 2026
 
-- Scaling Hermes Agent's content operations across all brands
+- Scaling Hermes Agent's content operations across the portfolio
 - Shipping Foliate to public beta
 - Studying Japanese (JLPT N5 → N3 track)
 - Writing about AI-first solo entrepreneurship for the Indonesian dev community
 
 ---
 
-## 🤝 Let's Connect!
-
-Hit me up to talk about doujins, anime, art — or AI automation, creator-economy tooling, and interesting problems in the ACG space.
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-adenaufal.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adenaufal.com)
-[![X](https://img.shields.io/badge/X-@adenaufal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adenaufal)
+## 🤝 Let's Connect
+
+DMs open on [X](https://x.com/adenaufal) — doujins, anime, art, AI automation, creator-economy tooling, or anything interesting in the ACG space.
 
 <sub>From collector to curator — building Indonesia's anime commerce infrastructure.</sub>
 
