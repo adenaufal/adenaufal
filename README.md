@@ -2,9 +2,9 @@
 
 # 👋 Yo! I'm Ade
 
-### Building Indonesia's Anime Commerce Infrastructure
+### Brands, Bots & Systems — from Pekanbaru
 
-Founder @ **PT Merchia Studio Kreasi** — commerce, community, and AI automation for the Indonesian ACG market since 2016. One founder, a portfolio of brands, and an AI agent stack doing the heavy lifting.
+Building things in the Indonesian internet since 2010 — merchandise, art studios, conversion services, automation systems. Mostly self-taught. Three businesses under **PT Merchia Studio Kreasi**, plus one thing that's still a secret. 🤫
 
 [![Website](https://img.shields.io/badge/Website-adenaufal.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adenaufal.com)
 [![X](https://img.shields.io/badge/X-@adenaufal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adenaufal)
@@ -17,77 +17,45 @@ Founder @ **PT Merchia Studio Kreasi** — commerce, community, and AI automatio
 
 ## 🎨 About Me
 
-**Indonesian doujin, merch, and art commission enthusiast** who turned that obsession into a business portfolio. Been in the ACG scene since 2016 — started as a collector, ran a jastip service for 6 years, now building the tooling and brands this market actually needs.
+Solo operator in **Pekanbaru, Riau** — remote-first, async by default. Started in the Indonesian ACG and PC gaming scene as a community kid in 2010, turned it into a portfolio of brands: commerce, an illustration studio, a community hub, and the automation that keeps all of it running with one person at the wheel.
 
-- 🌍 **Pekanbaru, Indonesia** | 🎯 **AI-first vibe coder** | 🎨 **Doujin collector**
+I don't separate creative from technical. Figma and VS Code in the same session — running a commission business also means writing the automation that offloads the repetitive parts, so the fun work gets the attention.
 
 ---
 
-## 🏗️ The Portfolio
+## 🏗️ Currently Building
 
-Brands and products under one holding company — designed, shipped, and operated solo.
+Three live businesses under one holding company — designed, shipped, and operated solo.
 
-| Venture | What it is | Status |
+| Venture | What it is | Since | Status |
+|---|---|---|---|
+| [**Lapak Bang Ade**](https://lapakbangade.com) | PayPal USD→IDR conversion. Bots read the receipts; trust does the rest. Messenger/Discord/Telegram bots with fraud detection. | 2016 | 🟢 Live |
+| [**Chrientmip Studio**](https://chrientmip.com) | Anime illustration studio, Hoyoverse-focused — artist tiers, client intake, delivery workflow. [Commissions ↗](https://vgen.co/chrientmip) | 2019 | 🟢 Live |
+| [**IDNSteam**](https://bit.ly/IDNSteam) | Indonesian Steam community — Discord + X. The space Indonesian PC gamers actually want. | 2010 | 🟢 Live |
+| **Next 👀** | Something else is almost ready. Not announcing yet. | — | 🔒 Stealth |
+
+---
+
+## 📦 The Project Shelf
+
+| Project | What it was | Period |
 |---|---|---|
-| [**Chrientmip Studio**](https://chrientmip.com) | Anime art commission studio — artist management, tiered pricing, payroll systems | 🟢 Operating |
-| [**Lapak Bang Ade**](https://lapakbangade.com) | PayPal ⇄ IDR conversion service with Telegram bot, fraud detection, automated ops | 🟢 Operating |
-| [**Hermes Agent**](https://adenaufal.com) | Self-hosted AI content-ops agent: 122+ skills, 13 cron jobs, multi-brand automation via Telegram | 🟢 In production |
-| [**Foliate**](https://foliate.id) | Markdown-to-PDF ebook generator for writers and digital product creators | 🟡 In development |
-| [**IDNSteam**](https://bit.ly/IDNSteam) | Indonesia's Steam community — content, curation, and community ops | 🟢 Active |
-| **PRISM COLLECTIVE** | Anime merchandise brand | 🔒 Stealth |
+| **Hermes Agent** | Self-hosted AI automation stack — 10+ scheduled jobs, 30+ custom skills, content ops across eight brands, on Tencent Cloud Lighthouse. | 2026–now |
+| **NitipMerch** | Event proxy shopping for Indonesian ACG fans — 2500+ catalog entries, sourced and shipped from convention events. Closed Dec 2022. | 2016–2022 |
+| **Zine Projects** | Finance, marketing, production, and shipping for three fan zines — 10–20 contributors per six-month cycle. *Kathimerina* (FGO, 2019), *Die Walpurgisnacht* (2020), *Tartaglia* (Genshin, 2021). | 2019–2021 |
+
+🧪 **[The Labs](https://adenaufal.com/labs)** — side projects on their own subdomains: [Jadwalin](https://jadwalin.adenaufal.com), [Kanchi](https://kanchi.adenaufal.com), [TropiHug](https://tropihug.pages.dev). Built fast, shipped anyway. Not businesses (yet).
 
 ---
 
-## ⚙️ Under the Hood
+## ⚡ Superpowers
 
-The engineering behind the portfolio — every venture above runs on software I built and operate myself.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [Hermes Agent](https://adenaufal.com)
-The AI ops layer for the whole portfolio: multi-platform content operations, custom skills library, cost-optimized model routing, Telegram-first interface.
-
-`Node.js` `DeepSeek` `Telegram API` `Ubuntu VPS`
-
-</td>
-<td width="50%">
-
-### 📚 [Foliate](https://foliate.id)
-Typst-powered rendering pipeline that turns Markdown into print-ready PDF ebooks.
-
-`Next.js` `Typst` `Railway`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏢 [Chrientmip Hub](https://vgen.co/chrientmip)
-Internal studio ops platform — commission tracking, artist payroll with snapshot-first architecture, tier-driven revenue splits.
-
-`Next.js 15` `Prisma` `Better Auth` `Railway`
-
-</td>
-<td width="50%">
-
-### 💱 [LBA Bot](https://lapakbangade.com)
-Production payment-ops bot handling real money daily. Fraud detection layers, multi-channel (Telegram + Messenger).
-
-`Python` `Telegram Bot API` `Fraud heuristics`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Focus
-
-- **AI-operated business** — running the whole portfolio through a self-hosted agent stack with cost-optimized model routing
-- **Vibe coding for Indonesian creators** — sharing how non-traditional devs ship production software with AI ([@adenaufal](https://x.com/adenaufal))
-- **SEO/GEO engineering** — making brands visible to both Google and LLMs
+| | |
+|---|---|
+| **Growth & Demand 📈**<br/>`$200K+ ad spend · 6+ years` | Meta Ads · Google Ads · SEO · Analytics · Lead Gen |
+| **Intelligence & Automation 🤖**<br/>`10+ workflows · 3 pipelines` | Claude API · Agent Design · Prompt Engineering · Workflow Automation |
+| **Product & Engineering 🛠️**<br/>`4+ production apps · 0→1 MVPs` | Next.js · Python · TypeScript · Figma · Branding |
+| **Ops & Community 🏰**<br/>`2K+ reach · 10–20 person teams` | Discord · Process Design · Team Coordination · Docs |
 
 ---
 
@@ -95,36 +63,45 @@ Production payment-ops bot handling real money daily. Fraud detection layers, mu
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Frameworks & Infra**
+**Build & Ship**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **AI Tooling**
 
-![Claude](https://img.shields.io/badge/-Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-**How I work:** AI-augmented development end-to-end — spec → agent → ship. 15+ years self-taught in digital marketing, design, and sales; engineering degree on top.
+**How I work:** light tooling, fast loops — Claude for thinking, Cursor for building, Railway + Cloudflare for shipping. Most projects start as something I need myself: build it, run it, iterate. The ones that stick become brands; the ones that don't become lessons. Real > hypothetical, every time.
+
+---
+
+## ✍️ Writing
+
+Essays on solo operations, pricing, automation, and ten-plus years of selling on the Indonesian internet — Indonesian and English.
+
+- 📝 [**adenaufal.com/blog**](https://adenaufal.com/blog) · [RSS](https://adenaufal.com/rss.xml)
+- 📰 [Nawala Karsa](https://nawalakarsa.id/author/adenaufal/) — tech and internet culture
+- 📰 [Tech in Asia ID](https://id.techinasia.com/asal-mula-founder-dealmedan-keluar-dari-zona-aman-dan-berdikari-demi-membuat-startup) — startup profile
+- 📓 [Nauf-vault](https://naufv.wordpress.com/) — personal blog, sporadic
 
 ---
 
 ## 📌 Now
 
-*Inspired by [Derek Sivers' /now](https://nownownow.com)* · Updated August 2026
+*Inspired by [Derek Sivers' /now](https://nownownow.com)* · Updated September 2026
 
-- Scaling Hermes Agent's content operations across the portfolio
-- Shipping Foliate to public beta
+- Scaling Hermes Agent's content ops across the portfolio
+- Getting the unannounced brand ready to ship
 - Studying Japanese (JLPT N5 → N3 track)
 - Writing about AI-first solo entrepreneurship for the Indonesian dev community
 
@@ -136,6 +113,6 @@ Production payment-ops bot handling real money daily. Fraud detection layers, mu
 
 DMs open on [X](https://x.com/adenaufal) — doujins, anime, art, AI automation, creator-economy tooling, or anything interesting in the ACG space.
 
-<sub>From collector to curator — building Indonesia's anime commerce infrastructure.</sub>
+<sub>Brands, bots, systems — one person runs it all.</sub>
 
 </div>
